@@ -29,6 +29,7 @@ theme = "minimal-bootstrap-hugo-theme"
   faviconSafariPinnedTabColor = "#5bbad5"
   faviconMsApplicationTileColor = "#da532c"
   faviconThemeColor = "#ffffff"
+  publishDir = "asachdeva.github.io"
 
 [menu]
   [[menu.nav]]
