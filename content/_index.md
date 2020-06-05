@@ -6,7 +6,7 @@ I am a software engineer.
 I prefer a pure functional programming approach to design, and implementation to provide high performance and modular
 solutions.
 Cloud Engineering Savvy (GCP |+| AWS |+| Azure).
-I love OSS and welcome the growth from engaging in contributions and leaerning from the community.
+I love OSS and welcome the growth from engaging in contributions and learning from the community.
 
 {{% grid %}}
 
