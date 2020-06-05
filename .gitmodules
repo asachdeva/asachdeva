@@ -4,3 +4,7 @@
 [submodule "asachdeva.github.io"]
 	path = asachdeva.github.io
 	url = git@github.com:asachdeva/asachdeva.github.io.git
+[submodule "public"]
+	path = public
+	url = https://github.com/asachdeva/asachdeva.github.io.git
+	branch = master
