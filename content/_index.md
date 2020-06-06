@@ -3,7 +3,7 @@ title: CV
 ---
 # Akshay Sachdeva
 I am a software engineer.
-I prefer a pure functional programming approach to design, and implementation to provide high performance and modular
+I prefer a pure functional programming approach to design and implementation to provide high performance and modular
 solutions.
 Cloud Engineering Savvy (GCP |+| AWS |+| Azure).
 I love OSS and welcome the growth from engaging in contributions and learning from the community.
@@ -23,7 +23,7 @@ models faster and more importantly more pre emptively for a better support infra
 * Data Visualization -- Prometheus + Grafana
 * Azure
 
-Respponsible for designing, architecting and implementing this offering on scala 2.12 and a mix of typelevel libs in
+Responsible for designing, architecting and implementing this offering on scala 2.12 and a mix of typelevel libs in
 cats, circe, http4s and zio for stream and stream combinators.  Build and Deployments is using GitLab and k8s+Terraform
 to provision.  Also researching Graph DB and GraphQL approach for an Enterprise Knowledge Graph solution for the fraud
 detection and support assist teams.
@@ -34,7 +34,7 @@ Worked on Machine Learning REST Service hosted at AWS utilizing EC2 to enable an
 Library built on Scala.  The REST service interacted with a Data Service Component (Dynamo DB + Postgres) and integrated
 with a TypeScript REST API that provided authentication and authoriziation leveraging JWT.
 
-* -- Scala with Akka(Actors, Http, Streams), cats, json4s, cats-effect
+* -- Scala with Akka(Actors, Http, Streams), cats, json4s, cats-effect et al
 * AWS (SQS, Cloudwatch, EC2, DynamoDB, S3, Lambda, AWS Batch)
 * Data Visualization -- Monitoring Service + statsD + DataDog + AWS Lambda to move data from Cloudwatch to Datadog
 
@@ -51,7 +51,7 @@ and finally to Kafka as data backplane.
 Orchestration and ETL was built using Airflow (Python 3.6)
 The RTB stack was built on GoLang
 
-* -- Scala with Akka(Actors, Http, Streams, Persistence), fs2, cats, cats-effect, circe, doobie, shapeless, sangria, Gatling
+* -- Scala with Akka(Actors, Http, Streams, Persistence), fs2, cats, cats-effect, circe, doobie, shapeless, sangria, Gatling et al
 * AWS (Kinesis, Eks, Athena, Lambda, Glue)
 * Heavy use of Kafka
 * Data Visualiztion migrated from Eks to NewRelic to DataDog
@@ -65,7 +65,7 @@ k8s + Terraform.
 Towards the end worked on Data Pipeline (Batch+Streaming) to support a DataHub Initiative for the healthcare space.  The Pipeline was a
 spark application built around Kafka and used HDFS as a Sink. Persistence ranged from S3 to Postgres to Kafka.
 
-* -- Scala with spark, spark-job-server, Gatling
+* -- Scala with spark, spark-job-server, Gatling et al
 * AWS (EMR + CF)
 * Heavy use of Kafka
 * Data Visualiztion using ELK stack

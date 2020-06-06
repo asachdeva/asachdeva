@@ -1,6 +1,6 @@
 # Akshay Sachdeva
 I am a software engineer.
-I prefer a pure functional programming approach to design, and implementation to build high performant and modular
+I prefer a pure functional programming approach to design and implementation to build high performant and modular
 solutions.
 Cloud Engineering Savvy (GCP |+| AWS |+| Azure)
 I love OSS and welcome the growth from engaging in contributions with the community.
@@ -13,11 +13,11 @@ Working on Streaming DataPipeline hosted at Azure utilizing Kubernetes to help a
 signals from Dell devices, storage and network components at a massive scale to enable Data Scientists run better
 models faster and more importantly more pre emptively for better a better support infrastructure.
 
-* -- Scala with zio-streams, http4s, cats.
+* -- Scala with zio-streams, http4s, cats et al
 * Data Visualization -- Prometheus + Grafana
 * Azure
 
-Respponsible for designing, architecting and implementing this offering on scala 2.12 and a mix of typelevel libs in
+Responsible for designing, architecting and implementing this offering on scala 2.12 and a mix of typelevel libs in
 cats, circe, http4s and zio for stream and stream combinators.  Build and Deployment is using GitLab and k8s+Terraform
 to provision.  Also researching Graph DB and GraphQL approach for an Enterprise Knowledge Graph solution for the fraud
 detection and support assist teams.
@@ -28,7 +28,7 @@ Worked on Machine Learning REST Service hosted at AWS utilizing EC2 to enable an
 Library also built on Scala.  The REST service interacted with a Data Service Component (Dynamo DB + Postgres) and integrated
 with a TypeScript REST API that provided authentication and authoriziation leveraging JWT.
 
-* -- Scala with Akka(Actors, Http, Streams), cats, json4s, cats-effect
+* -- Scala with Akka(Actors, Http, Streams), cats, json4s, cats-effect et al
 * AWS (SQS, Cloudwatch, EC2, DynamoDB, S3, Lambda, AWS Batch)
 * Data Visualization -- Monitoring Service + DataDog + AWS Lambda to move data from Cloudwatch to Datadog
 
@@ -44,7 +44,7 @@ and finally to Kafka as data backplane.
 Orchestration and ETL was built using Airflow (Python 3.6)
 The RTB stack was built on GoLang
 
-* -- Scala with Akka(Actors, Http, Streams, Persistence), fs2, cats, cats-effect, circe, doobie, shapeless, sangria, Gatling
+* -- Scala with Akka(Actors, Http, Streams, Persistence), fs2, cats, cats-effect, circe, doobie, shapeless, sangria, Gatling et al
 * AWS (Kinesis, Eks, Athena, Lambda, Glue)
 * Heavy use of Kafka as databackplane to connect services and RTB service
 * Data Visualiztion migrated from ELK to NewRelic to DataDog
@@ -58,7 +58,7 @@ Terraform
 Towards the end worked on Data Pipeline (Batch+Streaming) to support a DataHub Initiative for the healthcare space.  The Pipeline was a
 spark application built around Kafka and used HDFS as a Sink. Persistence ranged from S3 to Postgres to Kafka.
 
-* -- Scala with spark, spark-job-server, Gatling
+* -- Scala with spark, spark-job-server, Gatling et al
 * AWS (EMR + CF)
 * Kafka as Message Bus
 * Data Visualiztion using ELK stack
