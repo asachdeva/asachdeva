@@ -87,7 +87,7 @@ Developer), Trilogy Software (Developer/Consultant).  These experiences stretche
 #### Fluent with
   * Scala (Typelevel + Zio)
   * Java
-  * Spark (unfortunately)
+  * Spark
 
 #### Familiar with
   * Python
