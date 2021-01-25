@@ -10,10 +10,10 @@ I love OSS and welcome the growth from engaging in contributions with the commun
 ###### *March 2020 - Present*
 ### HiFi — Sr Principal Engineer -
 Working on Streaming DataPipeline hosted at GCP utilizing Kubernetes/DataProc to help acquire, transform and mine real time
-statements from channel providers, and ruin aggregations and anaytics against them to help support financial rights for artists
+statements from channel providers, and run aggregations and anaytics against them to help support financial rights for artists
 
 * -- Scala with fs2, http4s, sttp, circe, cats et al
-* Data Visualization -- Google Alerting 
+* Data Visualization -- Google Alerting
 * GCP
 
 Responsible for designing, architecting and implementing this offering on scala 2.13 and a mix of typelevel libs in
